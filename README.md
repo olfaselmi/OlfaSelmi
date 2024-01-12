@@ -30,6 +30,7 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
       <img src="https://camo.githubusercontent.com/bf8b262822dfe4eed0b57a840bac98fb28e04ec28e2b135933578a252259c482/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" width="50" alt="MongoDB" />
       <img src="https://camo.githubusercontent.com/364d63181a1b5438c1bfb88abd22d41141416d709cbe31d731a753bec26a270a/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" width="50" alt="PHP" />
         <img src="https://camo.githubusercontent.com/d85c49baf2946a337ca5f2b9a9a13cf0c37f633505b3d695afbc5784733f3e25/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" width="50" alt="MySQL" />
+        <img src="https://symfony.com/logos/symfony_black_02.png" width="50" alt="Symfony" />
       <!-- Add other backend skills here -->
     </td>
   </tr>
