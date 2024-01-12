@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
       <img src="https://camo.githubusercontent.com/fa13b2986e2936c2ec9b80bc1d5411137af974a1e197d2229cad0f255638be81/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" width="50" alt="Bootstrap" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS3" />
       <img src="https://camo.githubusercontent.com/0059f6336ebc9e59d21f380eb9fd024a6b06240c7bfb48415b897ab83996c209/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" width="50" alt="HTML5" />
-            <img src="https://camo.githubusercontent.com/0059f6336ebc9e59d21f380eb9fd024a6b06240c7bfb48415b897ab83996c209/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" width="50" alt="JavaScript" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="React" />
       <!-- Add other frontend skills here -->
     </td>
     <!-- Backend Skills -->
