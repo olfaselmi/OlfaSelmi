@@ -50,7 +50,6 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olfaselmi&layout=compact)
 
-## Current Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olfaselmi)
 
 
