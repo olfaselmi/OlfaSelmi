@@ -56,6 +56,7 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=olfaselmi&show_icons=true)
 
 </p>
+
 ## Connect with me
 
 <p>
