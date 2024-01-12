@@ -1,4 +1,4 @@
-# Hi There, I'm [Selmi Olfa]! 👋
+# Hi There, I'm Selmi Olfa! 👋
 
 I'm a passionate Full Stack Developer and Software Engineer with expertise in developing robust and scalable applications. Let's create something amazing together! 👨‍💻
 
