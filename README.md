@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
     </td>
   </tr>
 </table>
-
+<p align="center">
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=olfaselmi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olfaselmi&layout=compact)
@@ -53,7 +53,7 @@ I'm a passionate Full Stack Developer and Software Engineer with expertise in de
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olfaselmi)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=olfaselmi&show_icons=true)
-
+</p>
 ## Connect with me
 
 <p>
