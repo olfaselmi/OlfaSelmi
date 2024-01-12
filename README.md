@@ -5,7 +5,7 @@ I'm a passionate **Full Stack Developer and Software Engineer** with expertise i
 - 🔭 I’m currently working on Personal Projects.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [olfa.selmi.inbox@gmail.com](mailto:olfa.selmi.inbox@gmail.com).
+- 📫 How to reach me: [selmisolfa@gmail.com](mailto:selmisolfa@gmail.com).
 
 ## My Skill Set
 ### Frontend
