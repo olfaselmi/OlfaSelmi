@@ -1,6 +1,6 @@
-# Hi There, I'm Olfa Selmi! 👋
+# Hi There, I'm [Selmi Olfa]! 👋
 
-I'm a passionate **Full Stack Developer and Software Engineer** with expertise in developing robust and scalable applications. I love diving into complex problems and crafting elegant solutions. Let's create something amazing together! 👨‍💻
+I'm a passionate Full Stack Developer and Software Engineer with expertise in developing robust and scalable applications. Let's create something amazing together! 👨‍💻
 
 - 🔭 I’m currently working on Personal Projects.
 - 👯 I’m looking to collaborate on Open Source Projects.
@@ -9,13 +9,15 @@ I'm a passionate **Full Stack Developer and Software Engineer** with expertise i
 
 ## My Skill Set
 ### Frontend
-React Bootstrap CSS3 HTML5 JavaScript Illustrator Sass Angular TypeScript
+![React](url-to-react-icon) ![Bootstrap](url-to-bootstrap-icon) ![CSS3](url-to-css3-icon) ![HTML5](url-to-html5-icon) ![JavaScript](url-to-js-icon) ![TypeScript](url-to-ts-icon)
 
 ### Backend
-Symfony JavaScript TypeScript PHP MongoDB Node.js Express.js Git .NET Django Java MySQL Oracle GraphQL XAMPP
+![Node.js](url-to-nodejs-icon) ![Express.js](url-to-express-icon) ![MongoDB](url-to-mongodb-icon) ![PHP](url-to-php-icon) ![MySQL](url-to-mysql-icon)
 
 ## Connect with me
-[MAIL](mailto:olfa.selmi.inbox@gmail.com) [GITHUB](https://github.com/OlfaSelmi) [LINKEDIN](https://www.linkedin.com/in/olfa-selmi/)
+[![Gmail](url-to-gmail-badge)](mailto:your-email@example.com) [![GitHub](url-to-github-badge)](https://github.com/YourUsername) [![LinkedIn](url-to-linkedin-badge)](https://www.linkedin.com/in/your-linkedin/)
 
-<!-- Pinned Repositories would go here -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+
 
